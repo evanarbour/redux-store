@@ -17,7 +17,7 @@ This e-commerce store was refactored from using a Context API to using Redux to 
 
 ## Usage
 
-![Screenshot of portfolio](client/public/images/redux-store.png)
+![Screenshot of application](client/public/images/redux-store.png)
 
 ## Technology
 
